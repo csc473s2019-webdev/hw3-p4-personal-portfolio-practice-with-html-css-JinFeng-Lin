@@ -27,13 +27,17 @@ a {
 #navb{
     color:black;
 }
-#heading{
+#welcome-section{
     color:black;
-    margin: 150px;
+    height:100vh;
+    width:100vw;
     font-size: 20px;
+    padding-top: 35vh;
+    
+    
 }
 
-#heading p{
+#welcome-section p{
     color:rgb(43, 43, 43);
     
 }
@@ -52,12 +56,10 @@ img{
 
 #projects div{
     display: inline;
-    margin: 35px;
+    margin: 15px;
    
 }
-#project div{
-    margin: 185px;
-}
+
 #title div{
     margin: 135px;
 }
@@ -68,14 +70,14 @@ img{
     background-color: rgb(236, 236, 236);
     text-decoration: black;
 }
-#social li{
+#profile-link li{
     margin: 75px;
     display: inline;
+}
+#profile-link{
+    padding-top: 30px;
 }
 footer{
     padding-top: 50px;
     padding-bottom: 135px;
-}
-#social{
-    padding-top: 30px;
 }
