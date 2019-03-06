@@ -13,9 +13,6 @@ nav ul li{
     margin: 105px;
 }
 
-#social li{
-    display: inline;
-}
 a {
     text-decoration: none;
     color: black;
@@ -45,4 +42,8 @@ a {
 }
 #social li{
     margin: 75px;
+    display: inline;
+}
+footer{
+    padding-bottom: 35px;
 }
