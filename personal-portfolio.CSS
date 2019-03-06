@@ -22,16 +22,33 @@ a {
 }
 #heading{
     color:black;
+    margin: 150px;
 }
 #heading p{
     color:rgb(43, 43, 43);
 }
 #projects{
     background-color: rgb(99, 99, 99);
+    height: 550px;
+    padding-top: 50px;
 }
+img{
+    width: 350px;
+    height:250px;
+    margin: 25px;
+    padding-top: 50px;
+}
+
 #projects div{
-    display: inline-block;
-    margin: 75px;
+    display: inline;
+    margin: 35px;
+   
+}
+#project div{
+    margin: 185px;
+}
+#title div{
+    margin: 135px;
 }
 #works ul{
     display: inline-block;
@@ -45,5 +62,9 @@ a {
     display: inline;
 }
 footer{
-    padding-bottom: 35px;
+    padding-top: 50px;
+    padding-bottom: 135px;
+}
+#social{
+    padding-top: 30px;
 }
